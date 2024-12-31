@@ -20,7 +20,7 @@
 
 ---
 
-### Explains different scenarios enacted by actors.###
+### Explains different scenarios enacted by actors. ###
 
 #### Answer : ####
 - *Offensive Comments or Jokes*: There’s a scene where someone makes jokes about a coworker’s appearance or personal life, thinking it’s funny, but it clearly makes the other person uncomfortable.
