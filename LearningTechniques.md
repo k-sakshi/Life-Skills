@@ -1,21 +1,21 @@
 # Learning Techniques #
 
-### 1. What is the Feynman Technique? Explain in 1 line.###
+### 1. What is the Feynman Technique? Explain in 1 line. ###
 
-#### Answer####
+#### Answer ####
 
 - The Feynman Technique involves mastering a topic by explaining it simply, identifying and fixing gaps in understanding, and refining the explanation until anyone can understand it without similar kind of background.
 
 ### 2. In this video, what was the most interesting story or idea for you? ###
 
-#### Answer####
+#### Answer ####
 
 - The idea that grabbed my attention is how mind paths we have developed since our birth, previous learning, and habits can be modified with ease and the right direction and mind training to become more efficient.
 - Time between two focused sessions is also equally important to allow the brain to grasp relax rethink and recharge again.
 
 ### 3. What are active and diffused modes of thinking? ###
 
-#### Answer####
+#### Answer ####
 
 - Active mode: When one is fully focused and deeply engaged in solving a problem or learning something new.  
 
@@ -23,7 +23,7 @@
 
 ### 4. According to the video, what are the steps to take when approaching a new topic? Only mention the points. ###
 
-#### Answer####
+#### Answer ####
 
 Steps to take while approaching a new topic :
 
@@ -34,7 +34,7 @@ Steps to take while approaching a new topic :
 
 ### 5. What are some of the actions you can take going forward to improve your learning process? ###
 
-#### Answer####
+#### Answer ####
 
 The following few steps can be taken to improve my learning process:
 
